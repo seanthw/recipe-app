@@ -1,4 +1,4 @@
-#1. Clone the Repository:
+# 1. Clone the Repository:
     git clone https://github.com/seanthw/recipe-app.git
     - cd recipe-app
 
