@@ -4,7 +4,7 @@
     - Node.js and npm installed on your machine.
     - An account on ElephantSQL (https://www.elephantsql.com/) for the database.
     - A Spoonacular (https://spoonacular.com/food-api) API key for the recipe API
-
+# Setting up
 # 1. Clone the Repository:
     git clone https://github.com/seanthw/recipe-app.git
     - cd recipe-app
